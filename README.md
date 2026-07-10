@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0EA5E9,45:7C3AED,100:EC4899&text=Hi,%20I'm%20Yash Mohanani&fontColor=FFFFFF&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Computer Engineering Student&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0EA5E9,45:7C3AED,100:EC4899&text=Hi,%20I'm%20YashMohanani&fontColor=FFFFFF&fontSize=52&fontAlignY=38&animation=fadeIn&desc=ComputerEngineeringStudent&descAlignY=58&descSize=18)
 
 <!-- Replace {{NAME}} with your full name. Replace {{SHORT_DEVELOPER_TAGLINE}} with a one-line tagline, e.g. "Computer Engineering Student | Python + MERN Developer | AI/ML Explorer". -->
 
@@ -147,11 +147,7 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashm-programmer&bg_color=0B1020&color=E5E7EB&line=38BDF8&point=EC4899&area=true&hide_border=true)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yashm-programmer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1)
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashm-programmer&theme=tokyonight)
-![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashm-programmer&theme=tokyonight)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashm-programmer&theme=tokyonight&utcOffset=5.5)
 
 <!-- Replace {{GITHUB_USERNAME}} everywhere in this section. Replace {{UTC_OFFSET}} with your UTC offset, e.g. 5.5 for India. -->
 
